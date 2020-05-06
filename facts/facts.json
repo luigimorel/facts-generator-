@@ -218,5 +218,33 @@
     {
         "Fact": "Cats recognize the owners' voices but seem to be cool to care, according to a study.",
         "Category": "Animals"
-    }
+    },
+    {
+        "Fact": "The earliest diamonds were found in India in 4th Century BC.",
+        "Category": " History"
+    },
+    {
+        "Fact": "Millions of tonnes of the world's electronic waste end up in Africa where it is dumped in landfills.",
+        "Category": "Nature"
+    },
+    {
+        "Fact": "In 1941, more that 3 million cars were manufactured in the US. Only 139 more were made during the entire war.",
+        "Category": "WW11"
+    },
+    {
+        "Fact": "Ants can not chew their food, they move their jaws sideways, like scissors, to extract the juices from the food.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "During the invasion of Poland in WW2, 720 Poles defended their position against 40,000 Germans, stopping their advance for 3 days.",
+        "Category": " History"
+    },
+    {
+        "Fact": "230 million years is the time taken by our solar system to rotate around the Milky Way. Dinosaurs just began to roam on the Earth, the last time Earth was in it's current position.",
+        "Category": "Universe"
+    },
+    {
+        "Fact": "In South Korea, there is a Cat Cafe where you can go to drink coffee and hang out with cats for hours.",
+        "Category": "Animals"
+    },
 ]
