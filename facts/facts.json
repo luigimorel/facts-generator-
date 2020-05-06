@@ -247,4 +247,28 @@
         "Fact": "In South Korea, there is a Cat Cafe where you can go to drink coffee and hang out with cats for hours.",
         "Category": "Animals"
     },
+    {
+        "Fact": "The center of the Sun is approximately 15 million degrees Celsius.",
+        "Category": "Nature"
+    },
+    {
+        "Fact": "Coffee as a world commodity is second only to oil.",
+        "Category": "Food"
+    },
+    {
+        "Fact": "93% of the dogs and 75% of the cats that go missing in the U.S are returned safely, a study found.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Dolphins hear tones with a frequency up to 160kHz with the greatest sensitivity.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Four of every five soldiers killed in the wwar died on the Eastern Front.",
+        "Category": "World War II"
+    },
+    {
+        "Fact": "Bats make up 20 percent of all the mammal species found on Earth.",
+        "Category": "Animals"
+    },
 ]
