@@ -1,7 +1,30 @@
 # INTRODUCTION
 
 > What's the project about?
-> Facts generator is an NPM package that returns a scintific fact on a daily.
+> Facts generator is an NPM package that returns an amazing and suprising fact on a daily.
+
+# Installation
+
+`bash`
+npm i facts-generator
+
+`bash`
+
+# Usage
+
+# Example
+
+`js`
+const fact = require("./index.js");
+
+Then ...
+
+const fetchFact = fact.getFact();
+
+And finally,
+
+console.log(fetchFact.fact + " - " + fetchFact.category);
+`js`
 
 # License
 
