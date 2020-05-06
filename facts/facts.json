@@ -42,7 +42,7 @@
     {
         "Fact": "Flies can react to an object they see and change direction in less than 100 milliseconds.",
         "Category": "Time"
-    }
+    },
     {
         "Fact": "Sloths have the slowest metabolism of all mammals.",
         "Category": "Animals"
@@ -87,4 +87,48 @@
         "Fact": "Scientists estimate that there are 37.2 trillion cells in our body.",
         "Category": "Health"
     },
+    {
+        "Fact": "Exercises, like walking, can reduce the risk of breast cancer risk by 25%",
+        "Category": "Health"
+    },
+    {
+        "Fact": "Just 20-30 seconds worth of fuel remained when Apollo 11's lunar module landed on the moon.",
+        "Category": "Science"
+    },
+    {
+        "Fact": "Holding a remote car key nect to your head inreases it's range because the water in your brain acts as an amplifier.",
+        "Category": "Cars"
+    },
+    {
+        "Fact": "There is no Left Brain or Right Brain divide. It's a myth. They work together.",
+        "Category": "Brain"
+    },
+    {
+        "Fact": "Tarantula spiders can survive up to 2 years without food.",
+        "Category": "Food"
+    },
+    {
+        "Fact": "Cats and dogs can dream. They produce similar brain wave patterns that we do when we dream.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Trained dogs can sniff out prostate cancer with 98% accuracy.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Alcohol does not make you forget anything. When you blackout drunk, the brain temporarily loses the ability to create memories.",
+        "Category": "Health"
+    },
+    {
+        "Fact": "J. K. Rowling wrote her first book at the age of six - a story about a rabbit, called 'Rabbit'.",
+        "Category": "Random Fact"
+    },
+    {
+        "Fact": "Hawaii is moving towards Japan 4 inches evry year.",
+        "Category": "Science"
+    },
+    {
+        "Fact": "Volkswagen Group owns Bentley, Bugatti, Lamborghini, Audi, Ducati, Porsche and others.",
+        "Category": "Cars"
+    }
 ]
