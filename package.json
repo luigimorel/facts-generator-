@@ -1,0 +1,26 @@
+{
+  "name": "facts-generator",
+  "version": "1.0.0",
+  "description": "An NPM package that returns amazing facts. .\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Be knowledgeable by reading a fact everytime you like!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morelmiles/facts-generator-.git"
+  },
+  "keywords": [
+    "Facts",
+    "Science",
+    "Knowledge",
+    "Daily",
+    "Captions"
+  ],
+  "author": "Luigi Morel <https://github.com/morelmiles>",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/morelmiles/facts-generator-/issues"
+  },
+  "homepage": "https://github.com/morelmiles/facts-generator-#readme"
+}
