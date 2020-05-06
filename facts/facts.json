@@ -130,5 +130,49 @@
     {
         "Fact": "Volkswagen Group owns Bentley, Bugatti, Lamborghini, Audi, Ducati, Porsche and others.",
         "Category": "Cars"
+    },
+    {
+        "Fact": "Coffee is generally roasted between 204 - 218C. The longer the beans are roasted, the darker the roast.",
+        "Category": "Food"
+    },
+    {
+        "Fact": "Almost half of a child's brain energy goes to fuel his or her brain.",
+        "Category": "Brain"
+    },
+    {
+        "Fact": "In the Great Fire of London in 1666, which destroyed 13,200 houses, 87 churches, the cathedral of St. Paul and left 70,000 homeless, only 6 people were killed. ",
+        "Category": "Random Fact"
+    },
+    {
+        "Fact": "It's scietificlly proven that even a small dose of power changes how a person's brain operates and diminishes empathy",
+        "Category": "Brain"
+    },
+    {
+        "Fact": "Argentine footballer Diego Maradona used his hand to score a goal in the 1986 World Cup. Maradona claimed tha it was the hand of God that scored the goal.",
+        "Category": "Sports"
+    },
+    {
+        "Fact": "The first metered taxi was introduced in 1907.",
+        "Category": " History"
+    },
+    {
+        "Fact": "Unless the food is mixed with saliva, you can't taste it",
+        "Category": "Human Body"
+    },
+    {
+        "Fact": "At 12:01 am in August 1, 1981, history was made when MTV, the first 24 hour music channel, launched onto television sets and literally changed the lives with the birth of the music video.",
+        "Category": " History"
+    },
+    {
+        "Fact": "The original lyrics of the 'Happy Birthday to you' song was 'Good Morning to you'.",
+        "Category": "Music"
+    },
+    {
+        "Fact": "The term 'Frito Feet' was coined to describe the scent.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "When baby polar bear cubs are born, they can not see or hear for the first month.",
+        "Category": "Animals"
     }
 ]
