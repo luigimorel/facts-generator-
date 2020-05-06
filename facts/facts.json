@@ -174,5 +174,49 @@
     {
         "Fact": "When baby polar bear cubs are born, they can not see or hear for the first month.",
         "Category": "Animals"
+    },
+    {
+        "Fact": "66% of the world's chocolate comes from Africa.",
+        "Category": "Continents"
+    },
+    {
+        "Fact": "The largest number of babies born to a woman is 69.",
+        "Category": "Babies"
+    },
+    {
+        "Fact": "During WW1, the U.S government tried to rename Hamburgers as 'liberty sandwiches' to promote patriotism.",
+        "Category": "WW1"
+    },
+    {
+        "Fact": "The human brain is composed of about 100 billion neurons plus a trillion glial cells.",
+        "Category": "Brain"
+    },
+    {
+        "Fact": "One third of the Earth's surface is partially or totally desert.",
+        "Category": "Earth"
+    },
+    {
+        "Fact": "Cats are believed to be responsible for the extinction of several species of animals.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Hitler, while in prison, wrote a letter to a Mercedes dealership for a car loan.",
+        "Category": "Cars"
+    },
+    {
+        "Fact": "Violent homes have the same effect on children's brains as combat on soldiers. ",
+        "Category": "Brain"
+    },
+    {
+        "Fact": "Contrary to popular belief, there are no wild tigers in Africa. They are only in Asia.",
+        "Category": "Nature"
+    },
+    {
+        "Fact": "$30 of raw popcorn translates into $3,000 in sales at movie theaters.",
+        "Category": "fOOD"
+    },
+    {
+        "Fact": "Cats recognize the owners' voices but seem to be cool to care, according to a study.",
+        "Category": "Animals"
     }
 ]
