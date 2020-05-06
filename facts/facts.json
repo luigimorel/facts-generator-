@@ -422,5 +422,41 @@
     {
         "fact": "The pathologist who made Einstein body's autopsy stole his brain and kept it in a jar for 20 years.",
         "category": "Human Body"
+    },
+    {
+        "fact": "Sean Swarner was the first cancer survivor to complete the 7 summits, the highest peaks of the 7 continents.",
+        "category": "Inspirational people"
+    },
+    {
+        "fact": "The basic purpose of memory - human or machine is to keep a record of information for a period of time.",
+        "category": "Brain"
+    },
+    {
+        "fact": "More counties are now democratic than at any point since WW2",
+        "category": "World War 2"
+    },
+    {
+        "fact": "There are over 900,000 known species of insects.",
+        "category": "Insects"
+    },
+    {
+        "fact": "The brain of two musicians can synchronize when performing together.",
+        "category": "Brain Music"
+    },
+    {
+        "fact": "At birth, dalmations are always white.",
+        "category": "Animals"
+    },
+    {
+        "fact": "The measle's virus erases the immune system's memory, leaving the patients vulnerable to other infectious diseases. ",
+        "category": "Health"
+    },
+    {
+        "fact": "In 1975, a physicist made his cat a co-author of his research paper to avoid replacing 'we' with 'I' throughout his paper.",
+        "category": "Cats & Dogs"
+    },
+    {
+        "fact": "Studies have shown that what a woman eats during her pregnancy is easily detectable in her amniotic fluids, and the baby develops a taste for similar flavors.",
+        "category": "Babies"
     }
 ]
