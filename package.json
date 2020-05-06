@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/morelmiles/facts-generator-/issues"
   },
-  "homepage": "https://github.com/morelmiles/facts-generator-#readme"
+  "homepage": "https://github.com/morelmiles/facts-generator-#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
 }
