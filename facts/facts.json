@@ -43,4 +43,48 @@
         "Fact": "Flies can react to an object they see and change direction in less than 100 milliseconds.",
         "Category": "Time"
     }
+    {
+        "Fact": "Sloths have the slowest metabolism of all mammals.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Liquid oxygen is blue in color.",
+        "Category": "Science"
+    },
+    {
+        "Fact": "Starfish do not have brains",
+        "Category": "Science"
+    },
+    {
+        "Fact": "In 1935, British engineer Robert Watson-Watt was working on a 'death ray', that would destroy the enemy aircraft using radio waves. His death ray instead evolved into RADAR",
+        "Category": "World War II"
+    },
+    {
+        "Fact": "Sphenopalatine ganglioneuraglia is the scientific term for brain freeze. ",
+        "Category": "Science"
+    },
+    {
+        "Fact": "At the center of our galaxy, The Milky Wy, lies a black hole called Sagittarius A* or Sgr A* for short.",
+        "Category": "Universe"
+    },
+    {
+        "Fact": "Knowledge is growing fast that 90% of what we will know in those fifty years will be discovered in those fifty years.",
+        "Category": "Science"
+    },
+    {
+        "Fact": "Smokers are four times most likely to report feeling unrested after a night's sleep than non-smokers.",
+        "Category": "Health"
+    },
+    {
+        "Fact": "Banana plants are the largest plants without a woody stem. They belong to the same family as lilies, orchids and palms.",
+        "Category": "Nature"
+    },
+    {
+        "Fact": "Japan celebrates Christmas with KFC.",
+        "Category": "Random Fact"
+    },
+    {
+        "Fact": "Scientists estimate that there are 37.2 trillion cells in our body.",
+        "Category": "Health"
+    },
 ]
