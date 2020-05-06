@@ -271,4 +271,52 @@
         "Fact": "Bats make up 20 percent of all the mammal species found on Earth.",
         "Category": "Animals"
     },
+    {
+        "Fact": "Small intestine length in infants and children is 60 cm.",
+        "Category": "Babies"
+    },
+    {
+        "Fact": "Oxygen, carbon, hydrogen and nitrogen make up 10% of the human body. ",
+        "Category": "Human Body"
+    },
+    {
+        "Fact": "Fanta originated in Germany as a result of difficulties importing Coca-Cola syrup into Nazi Germany during WW2",
+        "Category": "World War 2"
+    },
+    {
+        "Fact": "Forgetting is good for the brain: deleting unnecessary information helps the nervous system retain its plasticity.",
+        "Category": "Human Body"
+    },
+    {
+        "Fact": "In Brazil alone, around 150 languages are spoken. However the most widely spoken are Portuguese and Spanish.",
+        "Category": "Continents"
+    },
+    {
+        "Fact": "Over a third of the World's pineapples come from Hawaii.",
+        "Category": "Food"
+    },
+    {
+        "Fact": "A crocodile can not move it's tongue.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "The croissant was invented in Austria.",
+        "Category": "Food"
+    },
+    {
+        "Fact": "A cat's urine glows under a backlight.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Around 80% of the world's matter is missing in the form of dark matter and dark energy.",
+        "Category": "Universe"
+    },
+    {
+        "Fact": "The American secret service tried to spike Hitler's food with female hormones to feminize him.",
+        "Category": "World War II"
+    },
+    {
+        "Fact": "The Xoloitzcuintli is the national dog of Mexico.",
+        "Category": "Animals"
+    },
 ]
