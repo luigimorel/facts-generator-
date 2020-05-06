@@ -395,4 +395,32 @@
         "Fact": "Your brain activity is as uniques as your fingerprint.",
         "Category": "Human Body"
     },
+    {
+        "Fact": "You use about 100 different muscles while speaking.",
+        "Category": "Human Body"
+    },
+    {
+        "Fact": "The last Olympic gold medal that was actually made from gold was awarded in 1912. Gold and Silver medals are 92.5% silver.",
+        "Category": "Sports"
+    },
+    {
+        "Fact": "A fingerprint is to a human as a nose is to a cat. ",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Adult brains still make new neurons.",
+        "Category": "Human Body"
+    },
+    {
+        "Fact": "Breast feeding a baby may reduce a woman's risk of developing Alzheimer's disease. ",
+        "Category": "Human Body"
+    },
+    {
+        "Fact": "A newborn quickly grows to love the mother's natural scent.",
+        "Category": "Human Body"
+    },
+    {
+        "Fact": "The pathologist who made Einstein body's autopsy stole his brain and kept it in a jar for 20 years.",
+        "Category": "Human Body"
+    }
 ]
