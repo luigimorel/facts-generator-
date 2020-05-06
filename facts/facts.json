@@ -355,4 +355,28 @@
         "Fact": "The Nazis tried to teac their dogs to talk and read.",
         "Category": "Animals"
     },
+    {
+        "Fact": "Giraffes can last longer without water than camels.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Large dogs are generally faster and die younger.",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "Pandas spend 12 hours a day eating bamboo. ",
+        "Category": "Animals"
+    },
+    {
+        "Fact": "The world's smallest car is called 'Tinker Toy' and it is just 2.75 inches tall.",
+        "Category": "Cars"
+    },
+    {
+        "Fact": "Coffee trees produce its first full crop after 5 years old.",
+        "Category": "Food"
+    },
+    {
+        "Fact": "There is no proof as to who built the Taj Mahal.",
+        "Category": " History"
+    },
 ]
