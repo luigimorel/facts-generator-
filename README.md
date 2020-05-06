@@ -5,16 +5,16 @@
 
 # Installation
 
-`bash`
+```
 npm i facts-generator
 
-`bash`
+```
 
 # Usage
 
 # Example
 
-`js`
+```
 const fact = require("./index.js");
 
 Then ...
@@ -24,7 +24,7 @@ const fetchFact = fact.getFact();
 And finally,
 
 console.log(fetchFact.fact + " - " + fetchFact.category);
-`js`
+```
 
 # License
 
