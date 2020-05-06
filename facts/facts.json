@@ -379,4 +379,20 @@
         "Fact": "There is no proof as to who built the Taj Mahal.",
         "Category": " History"
     },
+    {
+        "Fact": "The U.S by far has the world's largest gold reserves.",
+        "Category": "Earth"
+    },
+    {
+        "Fact": "The Olympus Mons on Mars is almost three times the height of Mt. Everest, which is 25km tall. It is 624 km at it's base.",
+        "Category": "Universe"
+    },
+    {
+        "Fact": "Grapes explode when you put them in a microwave.",
+        "Category": "Food"
+    },
+    {
+        "Fact": "Your brain activity is as uniques as your fingerprint.",
+        "Category": "Human Body"
+    },
 ]
