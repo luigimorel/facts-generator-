@@ -5,6 +5,6 @@
 
 # License
 
-This repository is licensed with ![MIT License](./LICENSE)
+This repository is licensed with [MIT License](./LICENSE)
 
 ## Refer to CONTRIBUTING.md to get a better idea on this !
